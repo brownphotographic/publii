@@ -1,11 +1,10 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "britishrob",
+    "title": "Rob Brown",
     "description": "",
     "home_page_url": "https://brownphotographic.github.io/publii",
     "feed_url": "https://brownphotographic.github.io/publii/feed.json",
     "user_comment": "",
-    "icon": "https://brownphotographic.github.io/publii/media/website/BP-brown.png",
     "author": {
         "name": "Rob Brown"
     },
@@ -60,7 +59,7 @@
             "url": "https://brownphotographic.github.io/publii/about-rob.html",
             "title": "About Rob",
             "summary": "Rob Brown is a professional product manager, and amateur photographer based in Hamilton, MA USA. British by birth, he grew up in the Cotswolds and studied at Swansea University (Wales), and the University of Nottingham. For the last 15 years he has lived in the&hellip;",
-            "content_html": "<p class=\"sidebar-profile-bio\">Rob Brown is a professional product manager, and amateur photographer based in Hamilton, MA USA. British by birth, he grew up in the Cotswolds and studied at  Swansea University (Wales), and the University of Nottingham. For the last 15 years he has lived in the US, working as a product manager in robotics and autonomous vehicles.</p>\n<p>My pastimes:</p>\n<ul>\n<li>Dad</li>\n<li>Amateur Photographer</li>\n<li>Tinkerer of tractors</li>\n<li>Fixer of things</li>\n<li>Open Source software</li>\n</ul>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://brownphotographic.github.io/publii/media/posts/2/Oct-18-2020-Rob-Brown-0047-square.jpg\" alt=\"\" width=\"380\" height=\"371\" sizes=\"100vw\" srcset=\"https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-xs.jpg 300w ,https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-sm.jpg 480w ,https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-md.jpg 768w ,https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-lg.jpg 1024w ,https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-xl.jpg 1360w ,https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-2xl.jpg 1600w\"></figure>\n<p> </p>",
+            "content_html": "<p class=\"sidebar-profile-bio\">Rob Brown is a professional product manager, and amateur photographer based in Hamilton, MA USA. British by birth, he grew up in the Cotswolds and studied at  Swansea University (Wales), and the University of Nottingham. For the last 15 years he has lived in the US, working as a product manager in robotics and autonomous vehicles.</p>\n<p>My pastimes:</p>\n<ul>\n<li>Dad</li>\n<li>Amateur Photographer</li>\n<li>Tinkerer of tractors</li>\n<li>Fixer of things</li>\n<li>Open Source software</li>\n</ul>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://brownphotographic.github.io/publii/media/posts/2/Oct-18-2020-Rob-Brown-0047-square.jpg\" alt=\"\" width=\"380\" height=\"371\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-xs.jpg 300w ,https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-sm.jpg 480w ,https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-md.jpg 768w ,https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-lg.jpg 1024w\"></figure>\n<p> </p>",
             "image": "https://brownphotographic.github.io/publii/media/posts/2/20190819_15-36-58_WithAdjustments.jpg",
             "author": {
                 "name": "Rob Brown"

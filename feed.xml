@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>britishrob</title>
+    <title>Rob Brown</title>
     <link href="https://brownphotographic.github.io/publii/feed.xml" rel="self" />
     <link href="https://brownphotographic.github.io/publii" />
     <updated>2023-02-25T21:01:55-05:00</updated>
@@ -133,7 +133,7 @@
 <li>Fixer of things</li>
 <li>Open Source software</li>
 </ul>
-<figure class="post__image"><img loading="lazy"  src="https://brownphotographic.github.io/publii/media/posts/2/Oct-18-2020-Rob-Brown-0047-square.jpg" alt="" width="380" height="371" sizes="100vw" srcset="https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-xs.jpg 300w ,https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-sm.jpg 480w ,https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-md.jpg 768w ,https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-lg.jpg 1024w ,https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-xl.jpg 1360w ,https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-2xl.jpg 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://brownphotographic.github.io/publii/media/posts/2/Oct-18-2020-Rob-Brown-0047-square.jpg" alt="" width="380" height="371" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-xs.jpg 300w ,https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-sm.jpg 480w ,https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-md.jpg 768w ,https://brownphotographic.github.io/publii/media/posts/2/responsive/Oct-18-2020-Rob-Brown-0047-square-lg.jpg 1024w"></figure>
 <p> </p>
             ]]>
         </content>
