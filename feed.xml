@@ -3,42 +3,12 @@
     <title>Rob Brown</title>
     <link href="https://brownphotographic.github.io/publii/feed.xml" rel="self" />
     <link href="https://brownphotographic.github.io/publii" />
-    <updated>2023-03-06T07:57:49-05:00</updated>
+    <updated>2023-02-26T21:15:29-05:00</updated>
     <author>
         <name>Rob Brown</name>
     </author>
     <id>https://brownphotographic.github.io/publii</id>
 
-    <entry>
-        <title>Photography: Streets of MTV</title>
-        <author>
-            <name>Rob Brown</name>
-        </author>
-        <link href="https://brownphotographic.github.io/publii/photography-streets-of-mtv.html"/>
-        <id>https://brownphotographic.github.io/publii/photography-streets-of-mtv.html</id>
-        <media:content url="https://brownphotographic.github.io/publii/media/posts/20/20230301_XPR21930-400H-Retinex.jpg" medium="image" />
-            <category term="Mountain View"/>
-            <category term="California"/>
-
-        <updated>2023-03-06T07:57:49-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://brownphotographic.github.io/publii/media/posts/20/20230301_XPR21930-400H-Retinex.jpg" alt="" />
-                    A few pics taken on the streets of Mountain View, 2023
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://brownphotographic.github.io/publii/media/posts/20/20230301_XPR21930-400H-Retinex.jpg" class="type:primaryImage" alt="" /></p>
-                <p>A few pics taken on the streets of Mountain View, 2023</p>
-<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://brownphotographic.github.io/publii/media/posts/20/gallery/20230301_XPR21930-400H-Retinex.jpg" data-size="1900x1267"><img loading="lazy" src="https://brownphotographic.github.io/publii/media/posts/20/gallery/20230301_XPR21930-400H-Retinex-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://brownphotographic.github.io/publii/media/posts/20/gallery/20230303_XPR21934-Astia.jpg" data-size="1900x1267"><img loading="lazy" src="https://brownphotographic.github.io/publii/media/posts/20/gallery/20230303_XPR21934-Astia-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://brownphotographic.github.io/publii/media/posts/20/gallery/20230301_XPR21924.jpg" data-size="1900x1267"><img loading="lazy" src="https://brownphotographic.github.io/publii/media/posts/20/gallery/20230301_XPR21924-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Photography: Stockholm</title>
         <author>
@@ -361,6 +331,32 @@
 <figure class="gallery__item"><a href="https://brownphotographic.github.io/publii/media/posts/11/gallery/20151223_10-05-56_WithAdjustments.jpg" data-size="1920x1280"><img loading="lazy" src="https://brownphotographic.github.io/publii/media/posts/11/gallery/20151223_10-05-56_WithAdjustments-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 <figure class="gallery__item"><a href="https://brownphotographic.github.io/publii/media/posts/11/gallery/20151223_10-53-12_WithAdjustments.jpg" data-size="1920x1280"><img loading="lazy" src="https://brownphotographic.github.io/publii/media/posts/11/gallery/20151223_10-53-12_WithAdjustments-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 <figure class="gallery__item"><a href="https://brownphotographic.github.io/publii/media/posts/11/gallery/20151223_11-15-29_WithAdjustments.jpg" data-size="1920x1280"><img loading="lazy" src="https://brownphotographic.github.io/publii/media/posts/11/gallery/20151223_11-15-29_WithAdjustments-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Photography: British Countryside</title>
+        <author>
+            <name>Rob Brown</name>
+        </author>
+        <link href="https://brownphotographic.github.io/publii/british-countryside.html"/>
+        <id>https://brownphotographic.github.io/publii/british-countryside.html</id>
+        <media:content url="https://brownphotographic.github.io/publii/media/posts/10/20041022_17-31-44.jpg" medium="image" />
+            <category term="photography"/>
+            <category term="United Kingdom"/>
+            <category term="UK"/>
+            <category term="Countryside"/>
+            <category term="British Countryside"/>
+
+        <updated>2023-02-26T20:56:33-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://brownphotographic.github.io/publii/media/posts/10/20041022_17-31-44.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/publii/media/posts/10/gallery/20040503_16-19-42.jpg" data-size="1280x1920"><img loading="lazy" src="https://brownphotographic.github.io/publii/media/posts/10/gallery/20040503_16-19-42-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/publii/media/posts/10/gallery/20041022_17-31-44.jpg" data-size="1920x1280"><img loading="lazy" src="https://brownphotographic.github.io/publii/media/posts/10/gallery/20041022_17-31-44-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 </div></div>
             ]]>
         </content>
