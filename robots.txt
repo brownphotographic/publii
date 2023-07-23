@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://brownphotographic.github.io/publii/sitemap.xml
+Sitemap: https://www.brownphotographic.com/sitemap.xml
