@@ -1,5 +1,5 @@
-User-agent: GPTBot
-Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://brownphotographic.github.io/publii/sitemap.xml
+User-agent: GPTBot
+Disallow: /
+Sitemap: https://brownphotographic.github.io/publii/sitemap.xm
