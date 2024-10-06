@@ -1,5 +1,7 @@
-User-agent: *
-Disallow:
+User-agent: ChatGPT-User
+Disallow: /
 User-agent: GPTBot
 Disallow: /
-Sitemap: https://brownphotographic.github.io/publii/sitemap.xm
+User-agent: *
+Disallow:
+Sitemap: https://brownphotographic.github.io/publii/sitemap.xml
